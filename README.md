@@ -28,3 +28,6 @@
 8. Member Function(Inner and Outer class function)
 
 ## Important links for step 02
+
+### [Member Function](https://www.trytoprogram.com/cplusplus-programming/class-and-functions/)
+### [Access Modifiers](https://www.trytoprogram.com/cplusplus-programming/access-specifiers/)
