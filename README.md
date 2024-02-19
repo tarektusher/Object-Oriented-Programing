@@ -29,5 +29,20 @@
 
 ## Important links for step 02
 
-### [Member Function](https://www.trytoprogram.com/cplusplus-programming/class-and-functions/)
-### [Access Modifiers](https://www.trytoprogram.com/cplusplus-programming/access-specifiers/)
+### 1. [Member Function](https://www.trytoprogram.com/cplusplus-programming/class-and-functions/)
+### 2. [Access Modifiers](https://www.trytoprogram.com/cplusplus-programming/access-specifiers/)
+<br><br>
+# Step 03 : Constructor and Destructor 
+
+1. Definition and Working.
+2. Rules and Types.
+3. Purpose of Using Constructor and Destructor
+4. Difference between Constructor and Methods (In Java)
+5. Can Constructor Perform Other Task rather than Initialization?
+6. Does Constructor Return any value?
+7. Constructor vs Destructor.
+8. Is there any Constructor Class?
+
+## Important links for step 03
+
+### 1. [Constructor and Destructor](https://www.geeksforgeeks.org/constructors-c/)
