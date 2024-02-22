@@ -46,3 +46,25 @@
 ## Important links for step 03
 
 ### 1. [Constructor and Destructor](https://www.geeksforgeeks.org/constructors-c/)
+
+<br><br>
+
+# Step 04 : Abstraction 
+1. Definition
+2. When to use
+3. How to Achieve
+4. Difference between Inheritance and Abstraction
+5. Difference between Encapsulation and Abstraction
+
+## Important links for step 04
+
+### 1. [Abstraction](https://www.geeksforgeeks.org/abstraction-in-cpp/)
+
+<br><br>
+
+# Step 05 : Encapsulation
+
+1. Definition
+2. Need
+3. How to achieve
+4. Real-World Example
