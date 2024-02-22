@@ -68,3 +68,8 @@
 2. Need
 3. How to achieve
 4. Real-World Example
+
+## Important links for step 05
+
+
+### 1. [Encaptulation](https://www.udacity.com/blog/2021/09/cpp-encapsulation-an-overview.html#:~:text=In%20C%2B%2B%2C%20encapsulation%20involves,1)
