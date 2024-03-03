@@ -73,3 +73,19 @@
 
 
 ### 1. [Encaptulation](https://www.udacity.com/blog/2021/09/cpp-encapsulation-an-overview.html#:~:text=In%20C%2B%2B%2C%20encapsulation%20involves,1)
+
+
+<br><br>
+
+# Step 06 : Inheritance
+
+1. Subclass
+2. Superclass
+3. Reusability
+4. Need for Inheritance
+5. Can OOP exist without Inheritance
+6. Inheritance types (Single, MultipleHierarchical, Multilevel, Hybrid, Virtual Inheritance)
+7. Real-life examples of Inheritance
+8. Limitation of Inheritance
+9. Sealed Modifier
+10. Object Slicing
